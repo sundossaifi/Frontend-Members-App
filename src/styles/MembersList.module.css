@@ -1,0 +1,15 @@
+.membersList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    width: 80%;
+}
+
+.members {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
